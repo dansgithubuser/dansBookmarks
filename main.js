@@ -7,7 +7,7 @@ websites=[
 	'https://www.facebook.com/?sk=h_chr',
 	'https://play.google.com/music',
 	'https://www.youtube.com',
-	'https://www.netflix.com/browse',
+	'https://www.netflix.com/browse/my-list',
 	'https://old.reddit.com',
 ];
 
