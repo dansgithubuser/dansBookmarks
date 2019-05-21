@@ -4,6 +4,7 @@ input=e('input');
 
 websites=[
 	'https://www.twitch.tv/directory/following',
+	'http://www.speedrunslive.com',
 	'https://www.facebook.com/?sk=h_chr',
 	'https://play.google.com/music',
 	'https://www.youtube.com',
