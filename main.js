@@ -10,6 +10,8 @@ websites=[
 	'https://www.youtube.com',
 	'https://www.netflix.com/browse/my-list',
 	'https://old.reddit.com',
+	'https://discord.com/app',
+	'https://gmail.com',
 ];
 
 function reset(){
