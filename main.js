@@ -60,7 +60,6 @@ input.addEventListener('keyup', function(event){
 	e('suggestion').innerHTML=suggest();
 }); 
 
-input.focus();
 reset();
 
 this.addEventListener('install', function(event){
